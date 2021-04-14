@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="0.539">
+  <testsuite name="Funkcja sayHello" errors="0" failures="0" skipped="0" timestamp="2021-04-14T15:46:08" time="0.513" tests="3">
+    <testcase classname="Funkcja sayHello powinna zwrócić string" name="Funkcja sayHello powinna zwrócić string" time="0.002">
+    </testcase>
+    <testcase classname="Funkcja sayHello powinna zwrócić &quot;Hello world&quot; jeżeli nie podano żadnego parametru" name="Funkcja sayHello powinna zwrócić &quot;Hello world&quot; jeżeli nie podano żadnego parametru" time="0">
+    </testcase>
+    <testcase classname="Funkcja sayHello powinna zwrócić połączenie tekstu &quot;Hello &quot; i przekazanego parametru" name="Funkcja sayHello powinna zwrócić połączenie tekstu &quot;Hello &quot; i przekazanego parametru" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>

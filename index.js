@@ -1,5 +1,8 @@
-function sayHello() {
-  // Zaimplementuj zadanie zgodnie z wytycznymi
+function sayHello(imie = "world") 
+{ 
+  return "Hello " + imie;
 };
+
+
 
 module.exports = sayHello;
